@@ -3,6 +3,7 @@ Workshop for Lecture 0
 
 
 Download the DOC with Instructions
-Or
-Click a Link
+----OR----
+
+Click the Link below:
 https://docs.google.com/document/d/14TQdmI00dTR4_vYVXAp1LGSnKyPBNJ5EuOIEwTpeOcE/edit?usp=sharing
